@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on https://github.com/aucerna
+- 🌱 I’m currently learning https://www.tensorflow.org/
+- 📫 How to reach me: lautaromail@gmail.com
+- ⚡ Fun fact: I'm also a home brewer and owns this web platform to create and share recipes https://brew-o-matic.com.ar/ source here in my profile
